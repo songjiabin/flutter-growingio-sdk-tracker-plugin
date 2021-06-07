@@ -33,5 +33,5 @@ android {
 }
 
 dependencies {
-    implementation 'com.growingio.android:tracker-cdp:3.1.0'
+    implementation 'com.growingio.android:tracker-cdp:3.0.0'
 }
